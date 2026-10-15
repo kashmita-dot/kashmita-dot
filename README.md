@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kashmita-dot"><img src="./assets/welcome.jpg" alt="welcome" width="70%" /></a>
+  <a href="https://github.com/kashmita-dot"><img src="./assets/welcome.jpg" alt="welcome" width="100%" /></a>
 </p>
 
 <a href="https://github.com/kashmita-dot"><img src="./assets/stars-divider.jpg" width="100%" alt="" /></a>
