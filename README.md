@@ -12,12 +12,6 @@
   <img src="https://img.shields.io/badge/-Learning%20Japanese-1A1A22?style=for-the-badge&logo=googletranslate&logoColor=FF9EC4" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/kashmita-dot"><img src="./welcome.jpg" alt="welcome" width="100%" /></a>
-</p>
-
-<a href="https://github.com/kashmita-dot"><img src="./stars-divider.jpg" width="100%" alt="" /></a>
-
 ## 🌙 WHO I AM
 
 Hey, I'm **Kashmita**, a self-directed learner from India with one big goal: becoming a **Computer Science Engineer**. I learn by building: every concept I pick up turns into a small project.
@@ -33,8 +27,6 @@ To build a career in **IT in Japan**. That's why I'm learning Japanese alongside
 ## 🖤 BEYOND CODE
 
 Dark emerald, noir, minimal. If it looks like midnight, I'm probably into it.
-
-<a href="https://github.com/kashmita-dot"><img src="./stars-divider.jpg" width="100%" alt="" /></a>
 
 ## 🔗 CONNECT
 
@@ -77,8 +69,6 @@ Then add a column for each in the table above.
   <img src="https://img.shields.io/badge/Cybersecurity%20(learning)-1A1A22?style=flat-square&logo=hackthebox&logoColor=FF9EC4" />
 </p>
 
-<a href="https://github.com/kashmita-dot"><img src="./stars-divider.jpg" width="100%" alt="" /></a>
-
 ## 📌 FEATURED PROJECTS
 
 | Project | What it does | Built with | Links |
@@ -91,8 +81,6 @@ Then add a column for each in the table above.
 Add more rows in the same format, for example:
 | 💸 **Income Tracker** | one line about what it does | badges | [Code](link) |
 -->
-
-<img src="./stars-divider.jpg" width="100%" alt="" />
 
 ## 🧭 LEARNING JOURNEY
 
@@ -112,8 +100,6 @@ Add more rows in the same format, for example:
 <p align="center">
   <img src="https://raw.githubusercontent.com/kashmita-dot/kashmita-dot/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
-
-<a href="https://github.com/kashmita-dot"><img src="./stars-divider.jpg" width="100%" alt="" /></a>
 
 <p align="center">
   <i>"Building quietly, learning constantly."</i>
