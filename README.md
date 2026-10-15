@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/kashmita-dot"><img src="./assets/banner-moon.jpg" alt="moon and cherry blossoms banner" width="100%" /></a>
+  <a href="https://github.com/kashmita-dot"><img src="./banner-moon.jpg" alt="moon and cherry blossoms banner" width="100%" /></a>
 </p>
 
 <h1 align="center">
@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kashmita-dot"><img src="./assets/welcome.jpg" alt="welcome" width="100%" /></a>
+  <a href="https://github.com/kashmita-dot"><img src="./welcome.jpg" alt="welcome" width="100%" /></a>
 </p>
 
-<a href="https://github.com/kashmita-dot"><img src="./assets/stars-divider.jpg" width="100%" alt="" /></a>
+<a href="https://github.com/kashmita-dot"><img src="./stars-divider.jpg" width="100%" alt="" /></a>
 
 ## 🌙 WHO I AM
 
@@ -34,7 +34,7 @@ To build a career in **IT in Japan**. That's why I'm learning Japanese alongside
 
 Dark emerald, noir, minimal. If it looks like midnight, I'm probably into it.
 
-<a href="https://github.com/kashmita-dot"><img src="./assets/stars-divider.jpg" width="100%" alt="" /></a>
+<a href="https://github.com/kashmita-dot"><img src="./stars-divider.jpg" width="100%" alt="" /></a>
 
 ## 🔗 CONNECT
 
@@ -77,7 +77,7 @@ Then add a column for each in the table above.
   <img src="https://img.shields.io/badge/Cybersecurity%20(learning)-1A1A22?style=flat-square&logo=hackthebox&logoColor=FF9EC4" />
 </p>
 
-<a href="https://github.com/kashmita-dot"><img src="./assets/stars-divider.jpg" width="100%" alt="" /></a>
+<a href="https://github.com/kashmita-dot"><img src="./stars-divider.jpg" width="100%" alt="" /></a>
 
 ## 📌 FEATURED PROJECTS
 
@@ -85,13 +85,14 @@ Then add a column for each in the table above.
 |---|---|---|---|
 | 🌙 **Portfolio Website** | Personal portfolio with a dark noir aesthetic, deployed on GitHub Pages | <img src="https://img.shields.io/badge/HTML-1A1A22?style=flat-square&logo=html5&logoColor=FF9EC4" /> <img src="https://img.shields.io/badge/CSS-1A1A22?style=flat-square&logo=css3&logoColor=FF9EC4" /> <img src="https://img.shields.io/badge/JS-1A1A22?style=flat-square&logo=javascript&logoColor=FF9EC4" /> | [Live](https://kashmita-dot.github.io/your-portfolio) · [Code](https://github.com/kashmita-dot/your-portfolio) |
 | 🛒 **Amazon Clone** | Responsive e-commerce front-end: flexbox/grid layout, DOM manipulation, mobile-friendly design | <img src="https://img.shields.io/badge/HTML-1A1A22?style=flat-square&logo=html5&logoColor=FF9EC4" /> <img src="https://img.shields.io/badge/CSS-1A1A22?style=flat-square&logo=css3&logoColor=FF9EC4" /> <img src="https://img.shields.io/badge/JS-1A1A22?style=flat-square&logo=javascript&logoColor=FF9EC4" /> | [Code](https://github.com/kashmita-dot/amazon-clone) |
+| 🎌 **Anime Data Analyzer** | Cleans and explores an anime dataset with pandas to pull out insights | <img src="https://img.shields.io/badge/Python-1A1A22?style=flat-square&logo=python&logoColor=FF9EC4" /> <img src="https://img.shields.io/badge/pandas-1A1A22?style=flat-square&logo=pandas&logoColor=FF9EC4" /> | [Code](https://github.com/kashmita-dot/anime-data-analyzer) |
 
 <!--
 Add more rows in the same format, for example:
 | 💸 **Income Tracker** | one line about what it does | badges | [Code](link) |
 -->
 
-<img src="./assets/stars-divider.jpg" width="100%" alt="" />
+<img src="./stars-divider.jpg" width="100%" alt="" />
 
 ## 🧭 LEARNING JOURNEY
 
@@ -112,7 +113,7 @@ Add more rows in the same format, for example:
   <img src="https://raw.githubusercontent.com/kashmita-dot/kashmita-dot/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-<a href="https://github.com/kashmita-dot"><img src="./assets/stars-divider.jpg" width="100%" alt="" /></a>
+<a href="https://github.com/kashmita-dot"><img src="./stars-divider.jpg" width="100%" alt="" /></a>
 
 <p align="center">
   <i>"Building quietly, learning constantly."</i>
