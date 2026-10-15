@@ -24,14 +24,17 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-E3F2FD?style=flat-square&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Numpy-E3F2FD?style=flat-square&logo=Numpy&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tkinter-E3F2FD?style=flat-square&logo=Tkinter&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-E3F2FD?style=flat-square&logo=mysql&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-E3F2FD?style=flat-square&logo=pandas&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E3F2FD?style=flat-square&logo=html5&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-E3F2FD?style=flat-square&logo=css3&logoColor=black" />
+  <img src="https://img.shields.io/badge/CSS-E3F2FD?style=flat-square&logo=css&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-E3F2FD?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-E3F2FD?style=flat-square&logo=github&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-E3F2FD?style=flat-square&logo=visualstudiocode&logoColor=black" />
   <img src="https://img.shields.io/badge/Cybersecurity-E3F2FD?style=flat-square&logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-E3F2FD?style=flat-square&logo=MongoDB&logoColor=black" />
 </p>
 
 ---
