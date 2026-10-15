@@ -32,18 +32,11 @@ Dark emerald, noir, minimal. If it looks like midnight, I'm probably into it.
 
 <div align="center">
 
-| GitHub |
-|:---:|
-| <a href="https://github.com/kashmita-dot"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a> |
+| LinkedIn | Instagram | GitHub |
+|:---:|:---:|:---:|
+| <a href="https://linkedin.com/in/kashmita-meher-9522a8403"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a> | <a href="https://www.instagram.com/cherry.cashh"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a> | <a href="https://github.com/kashmita-dot"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a> |
 
 </div>
-
-<!--
-Add more links here when ready, for example:
-LinkedIn: https://www.linkedin.com/in/your-id
-YouTube: https://www.youtube.com/@your-channel
-Then add a column for each in the table above.
--->
 
 ## 📊 GITHUB STATS
 
