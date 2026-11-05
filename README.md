@@ -32,9 +32,9 @@ Dark emerald, noir, minimal. If it looks like midnight, I'm probably into it.
 
 <div align="center">
 
-| LinkedIn | Instagram | GitHub |
-|:---:|:---:|:---:|
-| <a href="https://linkedin.com/in/kashmita-meher-9522a8403"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a> | <a href="https://www.instagram.com/cherry.cashh"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a> | <a href="https://github.com/kashmita-dot"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a> |
+| LinkedIn | Instagram | GitHub | LeetCode |
+|:---:|:---:|:---:|:---:|
+| <a href="https://linkedin.com/in/kashmita-meher-9522a8403"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a> | <a href="https://www.instagram.com/cherry.cashh"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a> | <a href="https://github.com/kashmita-dot"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a> | <a href="https://leetcode.com/u/kashmita/"><img src="https://cdn.simpleicons.org/leetcode/FF9EC4" height="48" /></a> |
 
 </div>
 
